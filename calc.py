@@ -28,6 +28,7 @@ operations = {
     "/": divide
 }
 
+# change from int to float for decimal
 num1 = int(input("What is the first number? : "))
 num2 = int(input("What is the second number?: "))
 
